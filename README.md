@@ -16,6 +16,7 @@ What it does: The app is a platform that enables users to view events that are g
 
 ## Built With
 
+* [Swift 4](https://developer.apple.com/swift/) - Programming language for macOS, iOS, watchOS and tvOS
 * [Xcode](https://developer.apple.com/xcode/) - IDE for iOS development
 * [CocoaPods](https://cocoapods.org/) - Dependency manager for Swift and Objective-C Cocoa projects
 * [Firebase Authentication](https://firebase.google.com/products/auth/) - Secure end-to-end identity authentication system
