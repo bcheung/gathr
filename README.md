@@ -1,10 +1,10 @@
 # gathr
 
-VocabGenius is a study tool for students to learn their vocabulary efficiently. The student can create their own list of vocabulary by inputting a list of terms. The app handles the list and makes a series of calls to Pearson's Dictionary APIs that take less than 10 seconds depending on how many words and creates the list of terms with definitions and parts of speech. The lists are stored on the device so once the list is created, the student can access the list anywhere without the need of WiFi. 
+How it all started:
 
-The reason behind creating such an app was that we had many vocabulary lists and terms to define for our tests or quizzes in our APLang class. I often found myself searching for the definitions for a very long time and waste all that time just searching when I could be studying the terms instead. So, with VocabGenius the student can spend less time searching for the definition online and spend more time on actually studying!
+Inspiration: We often find ourselves bored and wanting to go out on weekend evenings, but don’t know where to go or what to do. We tried using Facebook events, but find it too difficult to use, and it was hard to narrow down on events to go to. So, we decided to create an app that lets us find relevant nearby events on a map.
 
-I created this application for learning purposes and also for the Congressional App Challenge 2015 as a junior in high school. Although VocabGenius is a functional application, it should not be viewed as a refined and finished product. I did not understand the importance of annotating code and code readability at the time when I was just starting to apply basic programming skills.
+What it does: The app is a platform that enables users to view events that are going on around them and also post public/private events. The target audience is college students looking for events hosted by other students, student organizations and some businesses. Right now, the app has a working map and lets a registered user create events by selecting a location on a map. The map is updated real time, and the events are visible on the map across different devices.
   
 ## Demo
 
@@ -21,7 +21,10 @@ I created this application for learning purposes and also for the Congressional 
 
 ## Authors
 
-* **Brian Cheung**
+* **Brian Cheung** - Head of software development and UX/UI Design 
+* **Simon Hoque** - Head of UX/UI design
+* **Sam Wang** - UX/UI design
+* **Anna Sim** - UI design
 
 ## License
 
