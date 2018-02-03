@@ -21,10 +21,10 @@ What it does: The app is a platform that enables users to view events that are g
 
 ## Authors
 
-* **Brian Cheung** - Head of software development and UX/UI Design 
-* **Simon Hoque** - Head of UX/UI design
+* **Brian Cheung** - Project manager and head of software development
+* **Simon Hoque** - Head of UX/UI design team
 * **Sam Wang** - UX/UI design
-* **Anna Sim** - UI design
+* **Anna Sim** - UX/UI design
 
 ## License
 
