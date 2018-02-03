@@ -11,8 +11,8 @@ I created this application for learning purposes and also for the Congressional 
 [![gathr Demo](http://img.youtube.com/vi/fpEe3pJoHfg/0.jpg)](https://youtu.be/fpEe3pJoHfg)
 
 ## Built With
-
-* [Xcode](https://developer.android.com/studio/index.html){:target="_blank"} - IDE for Anroid mobile development
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+* [Xcode](https://developer.android.com/studio/index.html) - IDE for Anroid mobile development
 * [CocoaPods](https://cocoapods.org/) - Dependency manager for Swift and Objective-C Cocoa projects
 * [Firebase Authentication](https://firebase.google.com/products/auth/) - 
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/) - 
