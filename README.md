@@ -6,6 +6,12 @@ Inspiration: We often find ourselves bored and wanting to go out on weekend even
 
 What it does: The app is a platform that enables users to view events that are going on around them and also post public/private events. The target audience is college students looking for events hosted by other students, student organizations and some businesses. Right now, the app has a working map and lets a registered user create events by selecting a location on a map. The map is updated real time, and the events are visible on the map across different devices.
   
+## Screenshots
+
+<img width="1124" alt="prototype" src="https://user-images.githubusercontent.com/16355946/35762571-3855235e-085e-11e8-99c8-4fe74ef209d6.png">
+<img width="429" alt="gathr screenshot" src="https://user-images.githubusercontent.com/16355946/35762583-6cca0cee-085e-11e8-8f39-ae7b9cc664b5.png">
+
+
 ## Demo
 
 [![gathr Demo](http://img.youtube.com/vi/fpEe3pJoHfg/0.jpg)](https://youtu.be/fpEe3pJoHfg)
