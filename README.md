@@ -6,6 +6,8 @@ Inspiration: We often find ourselves bored and wanting to go out on weekend even
 
 What it does: The app is a platform that enables users to view events that are going on around them and also post public/private events. The target audience is college students looking for events hosted by other students, student organizations and some businesses. Right now, the app has a working map and lets a registered user create events by selecting a location on a map. The map is updated real time, and the events are visible on the map across different devices.
 
+gathr is currently an ongoing project that we plan to finish.
+
 ## Demo
 
 [![gathr Demo](http://img.youtube.com/vi/fpEe3pJoHfg/0.jpg)](https://youtu.be/fpEe3pJoHfg)
