@@ -23,8 +23,8 @@ What it does: The app is a platform that enables users to view events that are g
 
 * **Brian Cheung** - Project manager and head of software development
 * **Simon Hoque** - Head of UX/UI design team
-* **Sam Wang** - UX/UI design
-* **Anna Sim** - UX/UI design
+* **Sam Wang** - UX/UI design team member
+* **Anna Sim** - UX/UI design team member
 
 ## License
 
