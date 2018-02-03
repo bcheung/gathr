@@ -1,6 +1,6 @@
 # gathr
 
-How it all started:
+## How it all started:
 
 Inspiration: We often find ourselves bored and wanting to go out on weekend evenings, but don’t know where to go or what to do. We tried using Facebook events, but find it too difficult to use, and it was hard to narrow down on events to go to. So, we decided to create an app that lets us find relevant nearby events on a map.
 
