@@ -8,7 +8,7 @@ I created this application for learning purposes and also for the Congressional 
   
 ## Demo
 
-[![Audi R8](http://img.youtube.com/vi/fpEe3pJoHfg/0.jpg)](https://youtu.be/fpEe3pJoHfg)
+[![gathr Demo](http://img.youtube.com/vi/fpEe3pJoHfg/0.jpg)](https://youtu.be/fpEe3pJoHfg)
 
 ## Built With
 
