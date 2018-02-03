@@ -14,10 +14,10 @@ I created this application for learning purposes and also for the Congressional 
 
 * [Xcode](https://developer.apple.com/xcode/) - IDE for iOS development
 * [CocoaPods](https://cocoapods.org/) - Dependency manager for Swift and Objective-C Cocoa projects
-* [Firebase Authentication](https://firebase.google.com/products/auth/) - 
-* [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/) - 
-* [Firebase Geofire](https://github.com/firebase/geofire-objc) - 
-* [Google Maps API](https://developers.google.com/maps/ios/) - 
+* [Firebase Authentication](https://firebase.google.com/products/auth/) - Secure end-to-end identity authentication system
+* [Firebase Realtime Database](https://firebase.google.com/products/realtime-database/) - Cloud-hosted NoSQL database to store and sync data between users in realtime
+* [Firebase Geofire](https://github.com/firebase/geofire-objc) - Open-source library for iOS to store and query a set of keys based on their geographic location
+* [Google Maps API](https://developers.google.com/maps/ios/) - Google Maps
 
 ## Authors
 
