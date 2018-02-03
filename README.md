@@ -12,7 +12,7 @@ What it does: The app is a platform that enables users to view events that are g
 
 ## Screenshots
 
-<img width="175" alt="gathr screenshot" src="https://user-images.githubusercontent.com/16355946/35762583-6cca0cee-085e-11e8-8f39-ae7b9cc664b5.png"><img width="700" alt="prototype" src="https://user-images.githubusercontent.com/16355946/35762571-3855235e-085e-11e8-99c8-4fe74ef209d6.png">
+<img width="200" alt="gathr screenshot" src="https://user-images.githubusercontent.com/16355946/35762583-6cca0cee-085e-11e8-8f39-ae7b9cc664b5.png"><img width="700" alt="prototype" src="https://user-images.githubusercontent.com/16355946/35762571-3855235e-085e-11e8-99c8-4fe74ef209d6.png">
 
 ## Built With
 
